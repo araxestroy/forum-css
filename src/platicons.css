@@ -1084,6 +1084,20 @@
 	padding-left: 22px !important;
 }
 
+#thread dl.userinfo dt.skull {
+	background-image: url(https://fi.somethingawful.com/images/svgs/skull.svg);
+	background-size: 20px;
+	line-height: 20px !important;
+	padding-left: 22px !important;
+}
+
+#thread dl.userinfo dt.skull-blue {
+	background-image: url(https://fi.somethingawful.com/images/svgs/skull-blue.svg);
+	background-size: 20px;
+	line-height: 20px !important;
+	padding-left: 22px !important;
+}
+
 #thread dl.userinfo dt.bat {
 	background-image: url(https://fi.somethingawful.com/images/svgs/bat.svg);
 	background-size: 20px;
